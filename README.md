@@ -21,6 +21,11 @@ ICCV 2019
 
 [sketch simplification](https://github.com/bobbens/sketch_simplification) is not contained due to the LICENSE.
 
+## About XDoG parameters
+
+The code runs with the parameters the author have found suitable for anime images.  
+If this is not the desired output, please modify the parameters defined [here](https://github.com/STomoya/sketchify/blob/master/XDoG/XDoG.py#L20).
+
 ## Usage
 
 - Clone repository and download sketchKeras weights.
